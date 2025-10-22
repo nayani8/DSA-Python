@@ -34,7 +34,11 @@ Each problem file follows the structure:
 - 
 
 ### Math
-- 
+- Add digit extraction problem: extract and print digits of a number in reverse order
+- Add count digits problem: count number of digits in a number using loop and logarithm
+- Add palindrome number problem: check if a number is palindrome using loop and string methods
+- Add Armstrong number problem: check if a number is Armstrong using loop and string methods
+- Add factors of number problem: find all factors using brute force, improved, and optimal methods
 
 ### Linked Lists
 - 
