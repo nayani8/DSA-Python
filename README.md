@@ -7,6 +7,7 @@ DSA-Python/
 ├── Arrays/ # Array related problems
 ├── Strings/ # String manipulation problems
 ├── Math/ # Mathematical and number problems
+├── Recursion / # Recursion related problems
 ├── LinkedLists/ # Linked List problems
 ├── Stacks_Queues/ # Stack and Queue problems
 ├── Trees/ # Binary Tree and BST problems
@@ -28,7 +29,7 @@ Each problem file follows the structure:
 ## 📝 Problems
 
 ### Arrays
-- 
+- Add count the frequency of each element in an array
 
 ### Strings
 - 
@@ -39,6 +40,11 @@ Each problem file follows the structure:
 - Add palindrome number problem: check if a number is palindrome using loop and string methods
 - Add Armstrong number problem: check if a number is Armstrong using loop and string methods
 - Add factors of number problem: find all factors using brute force, improved, and optimal methods
+- Add binary to decimal conversion
+- Add decimal to binary conversion
+
+### Recursion 
+- Add basic Head and Tail Recursion of 1 to n and n to 1 
 
 ### Linked Lists
 - 
